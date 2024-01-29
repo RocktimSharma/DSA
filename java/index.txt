@@ -1,0 +1,160 @@
+Program-1         :-      Write a program to check whether a number is odd or even using bitwise operator.
+Program-2         :-      Write a program to swap two numbers using bitwise operator.
+Program-3         :-      Write a program to find the i-th bit.
+Program-4         :-      Write a program to set i-th bit.
+Program-5         :-      Write a program to clear the i-th bit.
+Program-6         :-      Write a program to find the number of bits we need to change to convert a to b.
+Program-7         :-      Write a program to find the only non repeating element in a array where every element repeats twice.
+** Program-8      :-      Write a program to find two none repeating elements where every element repeats twice.
+* Program-9       :-      Write a program to find the only non repeating element where every element repeats thrice.
+Program-10        :-      Write a program to find the number of tailing zeros in factorial.
+* Program-11      :-      Sieve of Eratosthenes..
+Program-12        :-      Write a program to find the GCD of two number.
+Program-13        :-      Write a program to compute answer in modulo.
+Program-14        :-      Write a program to find the sum of N natural number using recursion.
+Program-15        :-      Write a program to find a^b using recursion.
+Program-16        :-      Write a program to find the no. of ways ina n x m matrix.
+Program-17        :-      Write a program to solve JosePhus Problem.
+Program-18        :-      Write a program to check for pallindrome string using recursion.
+Program-19        :-      Write a program to print the superset of a given string.
+Program-20        :-      Write a program to implement N Queens problem using backtracking.
+Program-21        :-      Write a program to 
+Program-22        :-      Write a program to 
+Program-23        :-      Write a program to 
+Program-24        :-      Write a program to 
+Program-25        :-      Write a program to 
+Program-26        :-      Write a program to 
+Program-27        :-      Write a program to 
+Program-28        :-      Write a program to 
+Program-29        :-      Write a program to implement bubble sort
+Program-30        :-      Write a program to implement insertion sort.
+Program-31        :-      Write a program to implement slection sort.
+Program-32        :-      Write a program to implement merge sort
+Program-33        :-      Write a program to implement quick sort
+Program-34        :-      Write a program to implement heap sort
+Program-35        :-      Write a program to 
+Program-36        :-      Write a program to 
+Program-37        :-      Write a program to 
+Program-38        :-      Write a program to 
+Program-39        :-      Write a program to 
+Program-40        :-      Write a program to 
+Program-41        :-      Write a program to 
+Program-42        :-      Write a program to 
+Program-43        :-      Write a program to 
+Program-44        :-      Write a program to 
+Program-45        :-      Write a program to 
+Program-46        :-      Write a program to 
+Program-47        :-      Write a program to 
+Program-48        :-      Write a program to 
+Program-49        :-      Write a program to 
+Program-50        :-      Write a program to 
+Program-51        :-      Write a program to 
+Program-52        :-      Write a program to 
+Program-53        :-      Write a program to 
+Program-54        :-      Write a program to 
+Program-55        :-      Write a program to 
+Program-56        :-      Write a program to 
+Program-57        :-      Write a program to 
+Program-58        :-      Write a program to 
+Program-59        :-      Write a program to 
+Program-60        :-      Write a program to 
+Program-61        :-      Write a program to 
+Program-62        :-      Write a program to 
+Program-63        :-      Write a program to 
+Program-64        :-      Write a program to 
+Program-65        :-      Write a program to 
+Program-66        :-      Write a program to 
+Program-67        :-      Write a program to 
+Program-68        :-      Write a program 6o 
+Program-69        :-      Write a program to 
+Program-70        :-      Write a program to 
+Program-71        :-      Write a program to 
+Program-72        :-      Write a program to 
+Program-73        :-      Write a program to 
+Program-74        :-      Write a program to 
+Program-75        :-      Write a program to 
+Program-76        :-      Write a program to 
+Program-77        :-      Write a program to 
+Program-78        :-      Write a program to 
+Program-79        :-      Write a program to 
+Program-80        :-      Write a program to 
+Program-81        :-      Write a program to 
+Program-82        :-      Write a program to 
+Program-83        :-      Write a program to 
+Program-84        :-      Write a program to 
+Program-85        :-      Write a program to 
+Program-86        :-      Write a program to 
+Program-87        :-      Write a program to 
+Program-88        :-      Write a program to 
+Program-89        :-      Write a program to
+Program-90        :-      Write a program to 
+Program-91        :-      Write a program to 
+Program-92        :-      Write a program to 
+Program-93        :-      Write a program to 
+Program-94        :-      Write a program to 
+Program-95        :-      Write a program to 
+Program-96        :-      Write a program to 
+Program-97        :-      Write a program to 
+Program-98        :-      Write a program to 
+Program-99        :-      Write a program to
+Program-100       :-      Write a program to
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
